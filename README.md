@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="BRAZIL_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Brazil. Most of the resources and tools have versions in Portuguese.
 
-Based on the [OSINT Brazuca Project](https://github.com/osintbrazuca/osint-brazuca). Rearranged and updated for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0). Feel free to join!
+Based on the [OSINT Brazuca Project](https://github.com/osintbrazuca/osint-brazuca). Rearranged and updated for [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0). Feel free to join!
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
